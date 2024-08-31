@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/pipopo/Programs/Rust/atcoder/target/debug/build/typenum-97e20b7f15b8442b/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/pipopo/Programs/Rust/atcoder/target/debug/build/typenum-97e20b7f15b8442b/out/op.rs
